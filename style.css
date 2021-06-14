@@ -1,63 +1,1064 @@
-.body_background 
-{
-    background-image: url("12-127037_download-wallpaper-colorful-dark-aesthetic-gradient-background.jpg");
-   
+#player-container #play-pause {
+    cursor: pointer;
+    text-indent: -999999px;
+    height:50px;
+    width: 50px;
+    padding: 12px 18px;
+    z-index: 2;
+      background-image: url(https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png);
+      background-repeat: no-repeat!important;
+      background-position: center;
+      background-size: 16px;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:50px;
+    background-color: gainsboro;
+  }
+  #player-container2 #play-pause2 {
+    cursor: pointer;
+    text-indent: -999999px;
+    height:50px;
+    width: 50px;
+    padding: 12px 18px;
+    z-index: 2;
+      background-image: url(https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png);
+      background-repeat: no-repeat!important;
+      background-position: center;
+      background-size: 16px;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:50px;
+    background-color: gainsboro;
+  }
+  #player-container14 #play-pause14 {
+    cursor: pointer;
+    text-indent: -999999px;
+    height:50px;
+    width: 50px;
+    padding: 12px 18px;
+    z-index: 2;
+      background-image: url(https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png);
+      background-repeat: no-repeat!important;
+      background-position: center;
+      background-size: 16px;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:50px;
+    background-color: gainsboro;
+  }
+  #player-container8 #play-pause8 {
+    cursor: pointer;
+    text-indent: -999999px;
+    height:50px;
+    width: 50px;
+    padding: 12px 18px;
+    z-index: 2;
+      background-image: url(https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png);
+      background-repeat: no-repeat!important;
+      background-position: center;
+      background-size: 16px;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:50px;
+    background-color: gainsboro;
+  }
+  #player-container9 #play-pause9 {
+    cursor: pointer;
+    text-indent: -999999px;
+    height:50px;
+    width: 50px;
+    padding: 12px 18px;
+    z-index: 2;
+      background-image: url(https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png);
+      background-repeat: no-repeat!important;
+      background-position: center;
+      background-size: 16px;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:50px;
+    background-color: gainsboro;
+  }
+
+
+
+
+  #player-container3 #play-pause3 {
+    cursor: pointer;
+    text-indent: -999999px;
+    height:50px;
+    width: 50px;
+    padding: 12px 18px;
+    z-index: 2;
+      background-image: url(https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png);
+      background-repeat: no-repeat!important;
+      background-position: center;
+      background-size: 16px;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:50px;
+    background-color: gainsboro;
+  }
+
+
+
+
+
+  #player-container12 #play-pause12 {
+    cursor: pointer;
+    text-indent: -999999px;
+    height:50px;
+    width: 50px;
+    padding: 12px 18px;
+    z-index: 2;
+      background-image: url(https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png);
+      background-repeat: no-repeat!important;
+      background-position: center;
+      background-size: 16px;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:50px;
+    background-color: gainsboro;
+  }
+
+
+
+
+
+  #player-container7 #play-pause7{
+    cursor: pointer;
+    text-indent: -999999px;
+    height:50px;
+    width: 50px;
+    padding: 12px 18px;
+    z-index: 2;
+      background-image: url(https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png);
+      background-repeat: no-repeat!important;
+      background-position: center;
+      background-size: 16px;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:50px;
+    background-color: gainsboro;
+  }
+
+
+
+
+
+
+
+  #player-container5 #play-pause5 {
+    cursor: pointer;
+    text-indent: -999999px;
+    height:50px;
+    width: 50px;
+    padding: 12px 18px;
+    z-index: 2;
+      background-image: url(https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png);
+      background-repeat: no-repeat!important;
+      background-position: center;
+      background-size: 16px;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:50px;
+    background-color: gainsboro;
+  }
+
+
+
+
+
+
+
+  #player-container17 #play-pause17 {
+    cursor: pointer;
+    text-indent: -999999px;
+    height:50px;
+    width: 50px;
+    padding: 12px 18px;
+    z-index: 2;
+      background-image: url(https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png);
+      background-repeat: no-repeat!important;
+      background-position: center;
+      background-size: 16px;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:50px;
+    background-color: gainsboro;
+  }
+
+
+
+
+
+  #player-container15 #play-pause15 {
+    cursor: pointer;
+    text-indent: -999999px;
+    height:50px;
+    width: 50px;
+    padding: 12px 18px;
+    z-index: 2;
+      background-image: url(https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png);
+      background-repeat: no-repeat!important;
+      background-position: center;
+      background-size: 16px;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:50px;
+    background-color: gainsboro;
+  }
+  #player-container13 #play-pause13 {
+    cursor: pointer;
+    text-indent: -999999px;
+    height:50px;
+    width: 50px;
+    padding: 12px 18px;
+    z-index: 2;
+      background-image: url(https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png);
+      background-repeat: no-repeat!important;
+      background-position: center;
+      background-size: 16px;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:50px;
+    background-color: gainsboro;
+  }
+  #player-container6 #play-pause6 {
+    cursor: pointer;
+    text-indent: -999999px;
+    height:50px;
+    width: 50px;
+    padding: 12px 18px;
+    z-index: 2;
+      background-image: url(https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png);
+      background-repeat: no-repeat!important;
+      background-position: center;
+      background-size: 16px;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:50px;
+    background-color: gainsboro;
+  }
+  #player-container4 #play-pause4 {
+    cursor: pointer;
+    text-indent: -999999px;
+    height:50px;
+    width: 50px;
+    padding: 12px 18px;
+    z-index: 2;
+      background-image: url(https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png);
+      background-repeat: no-repeat!important;
+      background-position: center;
+      background-size: 16px;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:50px;
+    background-color: gainsboro;
+  }
+  #player-container10 #play-pause10 {
+    cursor: pointer;
+    text-indent: -999999px;
+    height:50px;
+    width: 50px;
+    padding: 12px 18px;
+    z-index: 2;
+      background-image: url(https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png);
+      background-repeat: no-repeat!important;
+      background-position: center;
+      background-size: 16px;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:50px;
+    background-color: gainsboro;
+  }
+  #player-container18 #play-pause18 {
+    cursor: pointer;
+    text-indent: -999999px;
+    height:50px;
+    width: 50px;
+    padding: 12px 18px;
+    z-index: 2;
+      background-image: url(https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png);
+      background-repeat: no-repeat!important;
+      background-position: center;
+      background-size: 16px;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:50px;
+    background-color: gainsboro;
+  }
+  #player-container21 #play-pause21 {
+    cursor: pointer;
+    text-indent: -999999px;
+    height:50px;
+    width: 50px;
+    padding: 12px 18px;
+    z-index: 2;
+      background-image: url(https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png);
+      background-repeat: no-repeat!important;
+      background-position: center;
+      background-size: 16px;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:50px;
+    background-color: gainsboro;
+  }
+  #player-container11 #play-pause11 {
+    cursor: pointer;
+    text-indent: -999999px;
+    height:50px;
+    width: 50px;
+    padding: 12px 18px;
+    z-index: 2;
+      background-image: url(https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png);
+      background-repeat: no-repeat!important;
+      background-position: center;
+      background-size: 16px;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:50px;
+    background-color: gainsboro;
+  }
+  #player-container16 #play-pause16 {
+    cursor: pointer;
+    text-indent: -999999px;
+    height:50px;
+    width: 50px;
+    padding: 12px 18px;
+    z-index: 2;
+      background-image: url(https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png);
+      background-repeat: no-repeat!important;
+      background-position: center;
+      background-size: 16px;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:50px;
+    background-color: gainsboro;
+  }
+  #player-container20 #play-pause20 {
+    cursor: pointer;
+    text-indent: -999999px;
+    height:50px;
+    width: 50px;
+    padding: 12px 18px;
+    z-index: 2;
+      background-image: url(https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png);
+      background-repeat: no-repeat!important;
+      background-position: center;
+      background-size: 16px;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:50px;
+    background-color: gainsboro;
+  }
+  #player-container19 #play-pause19 {
+    cursor: pointer;
+    text-indent: -999999px;
+    height:50px;
+    width: 50px;
+    padding: 12px 18px;
+    z-index: 2;
+      background-image: url(https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png);
+      background-repeat: no-repeat!important;
+      background-position: center;
+      background-size: 16px;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:50px;
+    background-color: gainsboro;
+  }
+  .play {
+    background-image: url("https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png");
+  }
+  .pause {
+     background-image: url("https://1001freedownloads.s3.amazonaws.com/vector/thumb/84300/wm_pause.png")!important;
+  }
+  .play10{
+    background-image: url("https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png");
+  }
+  .pause10{
+     background-image: url("https://1001freedownloads.s3.amazonaws.com/vector/thumb/84300/wm_pause.png")!important;
+  }
+  .play17{
+    background-image: url("https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png");
+  }
+  .pause17{
+     background-image: url("https://1001freedownloads.s3.amazonaws.com/vector/thumb/84300/wm_pause.png")!important;
+  }
+  .pause2{
+    background-image: url("https://1001freedownloads.s3.amazonaws.com/vector/thumb/84300/wm_pause.png")!important;
+
+  }
+  .play2{
+    background-image: url("https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png");
+
+  }
+  .pause18{
+    background-image: url("https://1001freedownloads.s3.amazonaws.com/vector/thumb/84300/wm_pause.png")!important;
+
+  }
+  .play18{
+    background-image: url("https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png");
+
+  }
+  .play3{
+    background-image: url("https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png");
+
+
+  }
+  .play14{
+    background-image: url("https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png");
+
+  }
+  .pause14{
+    background-image: url("https://1001freedownloads.s3.amazonaws.com/vector/thumb/84300/wm_pause.png")!important;
+
+
+  }
+  .pause3{
+    background-image: url("https://1001freedownloads.s3.amazonaws.com/vector/thumb/84300/wm_pause.png")!important;
+
+    
+  }
+  .pause15{
+    background-image: url("https://1001freedownloads.s3.amazonaws.com/vector/thumb/84300/wm_pause.png")!important;
+
+
+  }
+  .pause5{
+    background-image: url("https://1001freedownloads.s3.amazonaws.com/vector/thumb/84300/wm_pause.png")!important;
+
+    
+  }
+  .play4{
+    background-image: url("https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png");
+
+
+  }
+  .pause5{
+    background-image: url("https://1001freedownloads.s3.amazonaws.com/vector/thumb/84300/wm_pause.png")!important;
+
+  }
+  .play5{
+    background-image: url("https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png");
+
+
+  }
+  .pause13{
+    background-image: url("https://1001freedownloads.s3.amazonaws.com/vector/thumb/84300/wm_pause.png")!important;
+
+  }
+  .play13{
+    background-image: url("https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png");
+
+
+  }
+  .pause6{
+    background-image: url("https://1001freedownloads.s3.amazonaws.com/vector/thumb/84300/wm_pause.png")!important;
+
+  }
+  .play6{
+    background-image: url("https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png");
+
+
+  }
+  .pause9{
+    background-image: url("https://1001freedownloads.s3.amazonaws.com/vector/thumb/84300/wm_pause.png")!important;
+
+  }
+  .play9{
+    background-image: url("https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png");
+
+
+  }
+  .pause4{
+    background-image: url("https://1001freedownloads.s3.amazonaws.com/vector/thumb/84300/wm_pause.png")!important;
+
+  }
+  .pause7{
+    background-image: url("https://1001freedownloads.s3.amazonaws.com/vector/thumb/84300/wm_pause.png")!important;
+
+  }
+  .play7{
+    background-image: url("https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png");
+
+
+  }
+  .pause20{
+    background-image: url("https://1001freedownloads.s3.amazonaws.com/vector/thumb/84300/wm_pause.png")!important;
+
+  }
+  .play20{
+    background-image: url("https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png");
+
+
+  }
+  .pause19{
+    background-image: url("https://1001freedownloads.s3.amazonaws.com/vector/thumb/84300/wm_pause.png")!important;
+
+  }
+  .play19{
+    background-image: url("https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png");
+
+
+  }
+  .pause8{
+    background-image: url("https://1001freedownloads.s3.amazonaws.com/vector/thumb/84300/wm_pause.png")!important;
+
+  }
+  .play8{
+    background-image: url("https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png");
+
+
+  }
+  .pause11{
+    background-image: url("https://1001freedownloads.s3.amazonaws.com/vector/thumb/84300/wm_pause.png")!important;
+
+  }
+  .play11{
+    background-image: url("https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png");
+
+
+  }
+  .pause12{
+    background-image: url("https://1001freedownloads.s3.amazonaws.com/vector/thumb/84300/wm_pause.png")!important;
+
+  }
+  .play12{
+    background-image: url("https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png");
+
+
+  }
+  .pause16{
+    background-image: url("https://1001freedownloads.s3.amazonaws.com/vector/thumb/84300/wm_pause.png")!important;
+
+  }
+  .play16{
+    background-image: url("https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png");
+
+
+  }
+  .pause21{
+    background-image: url("https://1001freedownloads.s3.amazonaws.com/vector/thumb/84300/wm_pause.png")!important;
+
+  }
+  .play21{
+    background-image: url("https://www.clipartmax.com/png/small/16-164591_windows-media-player-play-button-small-clipart-300pixel-pause-button.png");
+
+
+  }
+
+  
+.center {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(0%, 100%);
+  
+ 
+}
+.centeredd {
+  position: absolute;
+  top:194%;
+  left: 50%;
+  transform: translate(0%, 100%);
+  
+ 
+}
+.centereddd {
+  position: absolute;
+  top:254%;
+  left: 50%;
+  transform: translate(0%, 100%);
+  
+ 
+}
+.body_background{
+  background-color: blueviolet;
+}
+.centereddddd {
+  position: absolute;
+  top:380%;
+  left: 50%;
+  transform: translate(0%, 100%);
+  
+ 
+}
+.centeredddd {
+  position: absolute;
+  top:318%;
+  left: 50%;
+  transform: translate(0%, 100%);
+  
+ 
+}
+.cen_7{
+  position: absolute;
+  top:442%;
+  left: 50%;
+  transform: translate(0%, 100%);
+  
+ 
+}
+.cen_8{
+  position: absolute;
+  top:500%;
+  left: 50%;
+  transform: translate(0%, 100%);
+  
+ 
+}
+.cen_9{
+  position: absolute;
+  top:560%;
+  left: 50%;
+  transform: translate(0%, 100%);
+  
+ 
+}
+.cen_10{
+  position: absolute;
+  top:620%;
+  left: 50%;
+  transform: translate(0%, 100%);
+  
+ 
+}
+.cen_11{
+  position: absolute;
+  top:680%;
+  left: 50%;
+  transform: translate(0%, 100%);
+  
+ 
+}
+.cen_12{
+  position: absolute;
+  top:745%;
+  left: 50%;
+  transform: translate(0%, 100%);
+  
+ 
+}
+.cen_13{
+  position: absolute;
+  top:815%;
+  left: 50%;
+  transform: translate(0%, 100%);
+  
+ 
+}
+.cen_14{
+  position: absolute;
+  top:880%;
+  left: 50%;
+  transform: translate(0%, 100%);
+  
+ 
+}
+.cen_15{
+  position: absolute;
+  top:950%;
+  left: 50%;
+  transform: translate(0%, 100%);
+  
+ 
+}
+.cen_16{
+  position: absolute;
+  top:1020%;
+  left: 50%;
+  transform: translate(0%, 100%);
+  
+ 
+}
+.cen_17{
+  position: absolute;
+  top:1087%;
+  left: 50%;
+  transform: translate(0%, 100%);
+  
+ 
+}
+.cen_18{
+  position: absolute;
+  top:1157%;
+  left: 50%;
+  transform: translate(0%, 100%);
+  
+ 
+}
+footer{
+  background-color: black;
+  color:blanchedalmond;
+  font-size: 50px;
+}
+u{
+  color:aqua;
+}
+.cen_19{
+  position: absolute;
+  top:1225%;
+  left: 50%;
+  transform: translate(0%, 100%);
+  
+ 
+}
+.cen_20{
+  position: absolute;
+  top:1295%;
+  left: 50%;
+  transform: translate(0%, 100%);
+  
+ 
+}
+.cen_21{
+  position: absolute;
+  top:1365%;
+  left: 50%;
+  transform: translate(0%, 100%);
+  
+ 
+}
+.centered{
+  position: absolute;
+  top: 130%;
+  left: 50%;
+  transform: translate(0%, 100%);
+  
+ 
+}
+.center2{
+  position: absolute;
+  top: 27%;
+  right:39%
+  
+  
+}
+
+.center3{
+  position: absolute;
+  top: 68%;
+  right:39%
+}
+#heading{
+color:antiquewhite;
+font-family: 'Sacramento', cursive;
+font-size:55px;
 }
 
 
 
-	.login_div1 , .login_div2
-	{
-		
-		padding: 10px;
-		float: none;
-		border-radius: 15px;
-	}
+.center4{
+  position: absolute;
+  top: 8%;
+  right:33%;
+}
+#headin{
+  color:aqua;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
 
 
-#player1_name , #player2_name
-{
-	display: inline-block;
-	margin-left: 20px;
-}
-#word
-{
-	width: 60%;
-}
-#word_display
-{
-	letter-spacing: 5px;
-}
-label{
-	color:whitesmoke;
-}
-#player2_name_input,#player1_name_input
-{  
 
-border-radius: 100px;
-color:blanchedalmond;
-background-color: #735f5e;
-float: none;
-text-align: left;
-font-family: 'Cinzel', serif;
+#title{
+  color:cadetblue;
+  font-size: 50px;
+  
+  font-family: 'Monoton', cursive;
 }
-h1{
-	font-family: 'Lobster', cursive;
+
+
+
+.centered2{
+  position: absolute;
+  top: 87%;
+  right:39%
+  
+  
 }
-img{
-	height:200px;
-	width:200px;
-	border-radius:100px; ;
+
+.centeredd3{
+  position: absolute;
+  top: 189%;
+  right:39%
+  
+  
 }
-h3{
-	font-family: 'Cinzel', serif;
-	color:white;
+
+#heading2{
+  color:antiquewhite;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+.centered3{
+  position: absolute;
+  top: 128%;
+  right:36%
 }
-button{
-	height:30px;
-	width:200px;
-	border-radius: 100px;
-	background-color: tomato;
-	font-family: 'Cinzel', serif;
-	color:black;
+.centeredd2{
+  position: absolute;
+  top: 147%;
+  right:39%
+  
+}
+
+
+
+
+.centereddd2{
+  position: absolute;
+  top: 210%;
+  right:39%
+  
+  
+}
+
+.centereddd3{
+  position: absolute;
+  top: 252%;
+  right:39%
+}
+.centeredddd2{
+  position: absolute;
+  top: 270%;
+  right:39%
+  
+}
+.centeredddd3{
+  position: absolute;
+  top: 315%;
+  right:39%
+  
+  
+}
+.centereddddd3{
+  position: absolute;
+  top: 375%;
+  right:29%;
+  
+  
+}
+.cenn3{
+  position: absolute;
+  top: 495%;
+  right:39%;
+  
+  
+}
+.cennn3{
+  position: absolute;
+  top:558%;
+  right:39%;
+  
+  
+}
+.cennn3_{
+  position: absolute;
+  top:610%;
+  right:39%;
+  
+  
+}
+.mid3{
+  position: absolute;
+  top:677%;
+  right:33%;
+  
+  
+}
+.midd3{
+  position: absolute;
+  top:740%;
+  right:39%;
+  
+  
+}
+.middl3{
+  position: absolute;
+  top:805%;
+  right:39%;
+  
+  
+}
+.middle3{
+  position: absolute;
+  top:875%;
+  right:33%;
+  
+  
+}
+.middles3{
+  position: absolute;
+  top:945%;
+  right:41%;
+  
+  
+}
+.middless3{
+  position: absolute;
+  top:1012%;
+  right:39%;
+  
+  
+}
+.cen3{
+  position: absolute;
+  top: 438%;
+  right:29%;
+  
+  
+}
+.centereddddd2{
+  position: absolute;
+  top: 334%;
+  right:39%
+}
+.cen2{
+  position: absolute;
+  top: 397%;
+  right:39%
+}
+.cenn2{
+  position: absolute;
+  top: 459%;
+  right:39%
+}
+.cennn2{
+  position: absolute;
+  top: 520%;
+  right:39%
+}
+
+
+
+
+
+.cennn2_{
+  position: absolute;
+  top: 575%;
+  right:39%
+}
+
+
+
+.mid2{
+  position: absolute;
+  top: 640%;
+  right:39%
+}
+
+
+
+.midd2{
+  position: absolute;
+  top: 700%;
+  right:39%
+}
+
+
+
+.middl2{
+  position: absolute;
+  top: 765%;
+  right:39%
+}
+
+
+
+.middle2{
+  position: absolute;
+  top: 835%;
+  right:39%
+}
+
+
+
+
+.middles2{
+  position: absolute;
+  top: 900%;
+  right:39%
+}
+
+
+.middless2{
+  position: absolute;
+  top: 970%;
+  right:39%
+}
+
+
+
+
+.vk2{
+  position: absolute;
+  top: 1040%;
+  right:39%
+}
+
+
+.vk3{
+  position: absolute;
+  top: 1082%;
+  right:39%
+}
+
+
+.vak2{
+  position: absolute;
+  top: 1110%;
+  right:39%
+}
+
+
+
+
+
+.vak3{
+  position: absolute;
+  top: 1152%;
+  right:35%
+}
+
+
+
+
+
+
+
+
+.vaik2{
+  position: absolute;
+  top: 1177%;
+  right:39%
+}
+.vaik3{
+  position: absolute;
+  top: 1220%;
+  right:39%
+}
+
+
+
+
+.vaibk2{
+  position: absolute;
+  top: 1245%;
+  right:39%
+}
+.vaibk3{
+  position: absolute;
+  top: 1290%;
+  right:39%
+}
+.vaibhk2{
+  position: absolute;
+  top: 1320%;
+  right:39%
+}
+.vaibhk3{
+  position: absolute;
+  top: 1362%;
+  right:43%
 }

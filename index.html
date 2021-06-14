@@ -1,41 +1,334 @@
-     <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
-<head>
-	<title>Maths Quiz Game</title>
+<head></head>
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<head>
+  <title>Music Player Web App</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Pattaya&display=swap" rel="stylesheet">
 <link rel="preconnect" href="https://fonts.gstatic.com">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
-<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="style.css">
+<link href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
 <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Cinzel&display=swap" rel="stylesheet">
-<script src="main.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Monoton&display=swap" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
 </head>
 <body class="body_background">
-	
-	<center>
-	
-		<h1 id="heading">
-			Maths Quiz game
-				</h1>
-				<img src="user-login-authenticate-icon-human-260nw-1365533969.jpg">
-		<div class="col-lg-4 col-sm-8 col-xs-11 login_div1">
-		<h3>Player 1 login for the game</h3>
-		<label>Username:</label>
-		<input type="text"id="player1_name_input" class="form-control" placeholder="Player 1 name">
-		<br>
-	</div>
-	<div class="col-lg-4 col-sm-8 col-xs-11 login_div2">
-		<h3>Player 2 login for the game</h3>
-		<label>Username:</label>
-		<input type="text"id="player2_name_input" class="form-control" placeholder="Player 2 name">
-		<br>
-	</div>
-	<button  onclick="addUser();">Login</button></center>
-	
+  <div class="center4" >
+   <center><h1 id="title">Music Player Web App </h1>
+    <h2 id="headin">Top 20 songs of <a href="https://en.wikipedia.org/wiki/Sushant_Singh_Rajput"><u> Sushant Singh Rajput</u></a></h2></center> 
+  </div>
+     
+      <center><div class="center2"><img src="ab67616d0000b2736a942b2b8ec9c67ef5512287.jpg" style="width:300px;  height:300px;" class="img-responsive" ></div></center> 
+      <div class="center3">
+        <h2 id="heading">Manja-Kai Po Che</h2></h2>
+      </div>
+       <div class="center">
+        <audio id="track">
+        <source src="Manja-Amit-Trivedi.mp3" type="audio/mpeg" />
+      </audio>
+      
+      <div id="player-container">
+        <div id="play-pause" class="play">Play</div>
+      </div></div>
 
+      <center><div class="centered2"><img src="hqdefault (1).jpg" style="width:300px;  height:300px;" class="img-responsive" ></div></center> 
+      <div class="centered3">
+        <h2 id="heading">Meethi Boliyan-Kai Po Che</h2></h2>
+      </div>
+       <div class="centered">
+        <audio id="track2">
+        <source src="Meethi-Boliyaan-Amit-Trivedi,Mili-Nair.mp3" type="audio/mpeg" />
+      </audio>
+      
+      <div id="player-container2">
+        <div id="play-pause2" class="play2">Play</div>
+      </div></div>
+      <center><div class="centeredd2"><img src="mqdefault.jpg" style="width:300px;  height:300px;" class="img-responsive" ></div></center> 
+      <div class="centeredd3">
+        <h2 id="heading">Chaar Kadam - PK</h2></h2>
+      </div>
+       <div class="centeredd">
+        <audio id="track3">
+        <source src="Chaar-Kadam-Shaan,Shreya-Ghoshal.mp3" type="audio/mpeg" />
+      </audio>
+      
+      <div id="player-container3">
+        <div id="play-pause3" class="play3">Play</div>
+      </div></div>
+      <center><div class="centereddd2"><img src="images (2).jpg" style="width:300px;  height:300px;" class="img-responsive" ></div></center> 
+      <div class="centereddd3">
+        <h2 id="heading">Raabta - Raabta</h2></h2>
+      </div>
+       <div class="centereddd">
+        <audio id="track4">
+        <source src="Raabta-Title-Track-(pagalworldsongs.co.in).mp3" type="audio/mpeg" />
+      </audio>
+      
+      <div id="player-container4">
+        <div id="play-pause4" class="play4">Play</div>
+      </div></div>
+      <center><div class="centeredddd2"><img src="images.jpg" style="width:300px;  height:300px;" class="img-responsive" ></div></center> 
+      <div class="centeredddd3">
+        <h2 id="heading">Ik Vaari Aa- Raabta</h2></h2>
+      </div>
+       <div class="centeredddd">
+        <audio id="track5">
+        <source src="Ik-Vaari-Aa-Arijit-Singh-(pagalworldsongs.co.in).mp3" type="audio/mpeg" />
+      </audio>
+      
+      <div id="player-container5">
+        <div id="play-pause5" class="play5">Play</div>
+      </div></div>
+
+
+      <center><div class="centereddddd2"><img src="dhoni_20161017.jpg" style="width:300px;  height:300px;" class="img-responsive" ></div></center> 
+      <div class="centereddddd3">
+        <h2 id="heading">Kaun Tujhe - MS Dhoni-The Untold Story</h2></h2>
+      </div>
+       <div class="centereddddd">
+        <audio id="track6">
+        <source src="Kaun-Tujhe-(M.S.-Dhoni-b-The-Untold-Story)-(pagalworldsongs.co.in).mp3" type="audio/mpeg" />
+      </audio>
+      
+      <div id="player-container6">
+        <div id="play-pause6" class="play6">Play</div>
+      </div></div>
+
+      <center><div class="cen2"><img src="kiara-advani-dhoni.jpg" style="width:300px;  height:300px;" class="img-responsive" ></div></center> 
+      <div class="cen3">
+        <h2 id="heading">Jab Tak - MS Dhoni-The Untold Story</h2></h2>
+      </div>
+       <div class="cen_7">
+        <audio id="track7">
+        <source src="Jab-Tak-Armaan-Malik.mp3" type="audio/mpeg" />
+      </audio>
+      
+      <div id="player-container7">
+        <div id="play-pause7" class="play7">Play</div>
+      </div></div>
+      
+      <center><div class="cenn2"><img src="Kedarnath-song-Namo-Namo-featuring-Sushant-Singh-Rajput.jpg" style="width:300px;  height:300px;" class="img-responsive" ></div></center> 
+      <div class="cenn3">
+        <h2 id="heading">Namo Namo-Kedarnath</h2></h2>
+      </div>
+       <div class="cen_8">
+        <audio id="track8">
+        <source src="Namo Namo - Kedarnath.mp3" type="audio/mpeg" />
+      </audio>
+      
+      <div id="player-container8">
+        <div id="play-pause8" class="play8">Play</div>
+      </div></div>
+
+
+<center><div class="cennn2"><img src="tab_Sushant_Singh_Rajput_and_Sara_Ali_Khan_-_Kedarnath_(10)_16a0853bba6_large.jpg" style="width:300px;  height:300px;" class="img-responsive" ></div></center> 
+      <div class="cennn3">
+        <h2 id="heading">Qafiraana-Kedarnath</h2></h2>
+      </div>
+       <div class="cen_9">
+        <audio id="track9">
+        <source src="Qaafirana.mp3" type="audio/mpeg" />
+      </audio>
+      
+      <div id="player-container9">
+        <div id="play-pause9" class="play9">Play</div>
+      </div></div>
+
+
+      <center><div class="cennn2_"><img src="117688-sweetheart-kedarnath-mp3-song-300.jpg" style="width:300px;  height:300px;" class="img-responsive" ></div></center> 
+      <div class="cennn3_">
+        <h2 id="heading">Sweetheart-Kedarnath</h2></h2>
+      </div>
+       <div class="cen_10">
+        <audio id="track10">
+        <source src="Sweetheart-Dev-Negi.mp3"
+         type="audio/mpeg" />
+      </audio>
+      
+      <div id="player-container10">
+        <div id="play-pause10" class="play10">Play</div>
+      </div></div>
+
+
+      
+      <center><div class="mid2"><img src="5bc55c3d1e4d97de065c994869f8783a.png" style="width:300px;  height:300px;" class="img-responsive" ></div></center> 
+      <div class="mid3">
+        <h2 id="heading">Khairiyat happy version-Chhichhore</h2></h2>
+      </div>
+       <div class="cen_11">
+        <audio id="track11">
+        <source src="Khairiyat (Happy) - Chhichhore 128 Kbps.mp3"
+         type="audio/mpeg" />
+      </audio>
+      
+      <div id="player-container11">
+        <div id="play-pause11" class="play11">Play</div>
+      </div></div>
+
+
+      <center><div class="midd2"><img src="865655-chhichhore2.jpg" style="width:300px;  height:300px;" class="img-responsive" ></div></center> 
+      <div class="midd3">
+        <h2 id="heading">Fikar Not-Chhichhore</h2></h2>
+      </div>
+       <div class="cen_12">
+        <audio id="track12">
+        <source src="Fikar-Not--Chhichhore--Dev-Negi-Nakash-Aziz.mp3"
+         type="audio/mpeg" />
+      </audio>
+      
+      <div id="player-container12">
+        <div id="play-pause12" class="play12">Play</div>
+      </div></div>
+
+
+      <center><div class="middl2"><img src="download (1).jpg" style="width:300px;  height:300px;" class="img-responsive" ></div></center> 
+      <div class="middl3">
+        <h2 id="heading">Woh Din-Chhichhore</h2></h2>
+      </div>
+       <div class="cen_13">
+        <audio id="track13">
+        <source src="Woh Din (Arijit Singh Version) - Chhichhore 128 Kbps.mp3"
+         type="audio/mpeg" />
+      </audio>
+      
+      <div id="player-container13">
+        <div id="play-pause13" class="play13">Play</div>
+      </div></div>
+
+
+      <center><div class="middle2"><img src="Chhichhore-(4).png" style="width:300px;  height:300px;" class="img-responsive" ></div></center> 
+      <div class="middle3">
+        <h2 id="heading">Kal Ki Hi Baat Hai-Chhichhore</h2></h2>
+      </div>
+       <div class="cen_14">
+        <audio id="track14">
+        <source src="Kal-Ki-Hi-Baat-Hai-b-Chhichhore-(pagalworldsongs.co.in).mp3"
+         type="audio/mpeg" />
+      </audio>
+      
+      <div id="player-container14">
+        <div id="play-pause14" class="play14">Play</div>
+      </div></div>
+
+
+      <center><div class="middles2"><img src="Sushant-Singh-Rajput-starrer-Rifleman-faces-legal-trouble-and-here-are-the-details.jpg" style="width:300px;  height:300px;" class="img-responsive" ></div></center> 
+      <div class="middles3">
+        <h2 id="heading">Makhna-Drive</h2></h2>
+      </div>
+       <div class="cen_15">
+        <audio id="track15">
+        <source src="Makhna-b-Drive-(pagalworldsongs.co.in).mp3"
+         type="audio/mpeg" />
+      </audio>
+      
+      <div id="player-container15">
+        <div id="play-pause15" class="play15">Play</div>
+      </div></div>
+
+
+
+      <center><div class="middless2"><img src="3ldaatt0x9951.jpg" style="width:300px;  height:300px;" class="img-responsive" ></div></center> 
+      <div class="middless3">
+        <h2 id="heading">Friendzone-Dil Bechara</h2></h2>
+      </div>
+       <div class="cen_16">
+        <audio id="track16">
+        <source src="Dil Bechara.mp3"
+         type="audio/mpeg" />
+      </audio>
+      
+      <div id="player-container16">
+        <div id="play-pause16" class="play16">Play</div>
+      </div></div>
+
+
+
+      <center><div class="vk2"><img src="maskhari.jpg" style="width:300px;  height:300px;" class="img-responsive" ></div></center> 
+      <div class="vk3">
+        <h2 id="heading">Maskhari-Dil Bechara</h2></h2>
+      </div>
+       <div class="cen_17">
+        <audio id="track17">
+        <source src="Maskhari - Dil Bechara.mp3"
+         type="audio/mpeg" />
+      </audio>
+      
+      <div id="player-container17">
+        <div id="play-pause17" class="play17">Play</div>
+      </div></div>
+
+      <center><div class="vak2"><img src="maxresdefault.jpg" style="width:300px;  height:300px;" class="img-responsive" ></div></center> 
+      <div class="vak3">
+        <h2 id="heading">Khulke Jeene Ka-Dil Bechara</h2></h2>
+      </div>
+       <div class="cen_18">
+        <audio id="track18">
+        <source src="Khulke Jeene Ka.mp3"
+         type="audio/mpeg" />
+      </audio>
+      
+      <div id="player-container18">
+        <div id="play-pause18" class="play18">Play</div>
+      </div></div>
+
+      <div id="player-container17">
+        <div id="play-pause17" class="play17">Play</div>
+      </div></div>
+
+      <center><div class="vaik2"><img src="65a50a6e3ec4c456022ff26c87558649.jpg" style="width:300px;  height:300px;" class="img-responsive" ></div></center> 
+      <div class="vaik3">
+        <h2 id="heading">Taare Gin-Dil Bechara</h2></h2>
+      </div>
+       <div class="cen_19">
+        <audio id="track19">
+        <source src="Taare Gin - SirfJatt.Com.mp3"
+         type="audio/mpeg" />
+      </audio>
+      
+      <div id="player-container19">
+        <div id="play-pause19" class="play19">Play</div>
+      </div></div>
+
+      <center><div class="vaibk2"><img src="Dil-Bechara-Sushant-Sanjana-1200.jpg" style="width:300px;  height:300px;" class="img-responsive" ></div></center> 
+      <div class="vaibk3">
+        <h2 id="heading">Main Tumhara-Dil Bechara</h2></h2>
+      </div>
+       <div class="cen_20">
+        <audio id="track20">
+        <source src="Main Tumhara.mp3"
+         type="audio/mpeg" />
+      </audio>
+      
+      <div id="player-container20">
+        <div id="play-pause20" class="play20">Play</div>
+      </div></div>
+
+
+      <center><div class="vaibhk2"><img src="Sushant-singh-rajput_1200-4.jpg" style="width:300px;  height:300px;" class="img-responsive" ></div></center> 
+      <div class="vaibhk3">
+        <h2 id="heading">Mashup🙂🙂</h2></h2>
+      </div>
+       <div class="cen_21">
+        <audio id="track21">
+        <source src="Sushant Singh Rajput Mashu 192Kbps(DJPubg.Com).mp3"
+         type="audio/mpeg" />
+      </audio>
+      
+      <div id="player-container21">
+        <div id="play-pause21" class="play21">Play</div>
+      </div></div>
+    
+    
+
+
+  <script src="main.js"></script>
+
+  
 </body>
 </html>
+  
